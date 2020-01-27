@@ -5,3 +5,10 @@ abbr:hover {
     font-size:20px;
     color:red;
   }
+  img {
+    border: 2px dotted red;
+   
+  }
+  img [title="Detalle del motor"]{
+    border: 500px
+  }
